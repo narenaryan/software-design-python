@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "~/vens/sdesign/bin/python3",
+    "python.linting.enabled": true,
+    "editor.tabSize": 4
+}
