@@ -1,4 +1,4 @@
-Instructions for running this code
+Instructions for running this code:
 
 Make sure you have latest Python version (3.7.2)
 
@@ -8,7 +8,7 @@ Make sure you have latest Python version (3.7.2)
     
     `source ~/vens/myenv/bin/activate`
 
-2. Now go to root directory and can run projects
+2. Now go to the root directory and can run various projects:
 
     `python pythonicBehavioral/main.py`
 
